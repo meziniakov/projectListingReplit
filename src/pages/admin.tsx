@@ -1,3 +1,4 @@
+// @ts-ignore
 import * as xlsx from 'xlsx/xlsx.mjs'
 import * as fs from 'fs'
 import { useEffect, useState } from 'react';

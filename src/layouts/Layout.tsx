@@ -1,3 +1,4 @@
+// @ts-ignore
 import Nav from '../components/Nav/Nav'
 
 const Layout = (props) => (

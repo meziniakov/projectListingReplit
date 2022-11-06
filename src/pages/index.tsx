@@ -1,3 +1,4 @@
+// @ts-ignore
 import ItemList from '../components/ItemList'
 
 export const getServerSideProps = async ({query}) => {
